@@ -14,10 +14,10 @@ var sensor = {
     }
 };
 
-/*
+
 if (sensor.initialize()) {
     sensor.read();
 } else {
     console.warn('Failed to initialize sensor');
 }
-*/
+

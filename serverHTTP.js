@@ -1,5 +1,6 @@
 var sensorLib = require('node-dht-sensor');
 var http = require('http');
+var usonic = require('r-pi-usonic');
 
 /* temp + hum */
 var sensor = {
